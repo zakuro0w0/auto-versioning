@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.0.0](https://github.com/zakuro0w0/auto-versioning/compare/v1.2.0...v2.0.0) (2024-02-20)
+
+
+### ⚠ BREAKING CHANGES
+
+* 機能Yについて互換性を失う変更を追加
+
+### Features
+
+* 機能Yについて互換性を失う変更を追加 ([f9a97c1](https://github.com/zakuro0w0/auto-versioning/commit/f9a97c11ab39dfac9093c045e1e12c9accace7ca))
+
 ## [1.2.0](https://github.com/zakuro0w0/auto-versioning/compare/v1.1.1...v1.2.0) (2024-02-20)
 
 
