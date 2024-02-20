@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.1](https://github.com/zakuro0w0/auto-versioning/compare/v1.1.0...v1.1.1) (2024-02-20)
+
+
+### Bug Fixes
+
+* 不具合Bを修正 ([9a1bf8b](https://github.com/zakuro0w0/auto-versioning/commit/9a1bf8b45281db4c35295b81c7e631c1fc2086b1))
+
 ## 1.1.0 (2024-02-19)
 
 
